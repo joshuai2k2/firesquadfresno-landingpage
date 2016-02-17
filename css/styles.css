@@ -1,0 +1,60 @@
+/*GLOBAL STYLES*/
+
+/*HEADER, MAIN AND FOOTER BY JOSHUA -1-26-16*/
+
+a {
+    
+}
+
+body {
+    margin:0px;
+}
+
+h1 {
+    
+}
+
+p {
+    
+}
+
+header {
+    height:170px;
+    background-color:#FF7900;
+}
+
+main {
+    height:600px;
+    width:90%;
+    margin:20px auto;
+}
+
+footer {
+    height:170px;
+    background-color:#FF7900;
+    padding:40px;
+}
+
+footer p {
+    color:#fff;
+    text-align:center;
+    font-size:20px;
+}
+    
+/* BUTTON STYLES */
+
+.button {
+    background-color:#000;
+    padding:15px 23px;
+    border-radius:10px;
+}
+.button:hover {
+    background-color:#e600e5;
+}
+
+/*OTHER STYLES*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto 0px auto;
+}
